@@ -81,4 +81,6 @@ document.querySelector('.btn.again').addEventListener('click', function () {
   number.style.width = '15rem';
 });
 
-console.log('Welcome!');
+const newFeature = function () {
+  console.log('welcome to the app!');
+};
